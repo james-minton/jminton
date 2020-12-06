@@ -2,7 +2,7 @@
 {{- $context := . -}}
 <div class="article-details">
     {{ if .Params.categories }}
-    <header class="article-category">
+    <header class="article-category site-info"><span class="site-description">Filed under &nbsp;</span>
         {{ range (.GetTerms "categories") }}
             {{ if and $image.exists $image.resource }}
                 {{- $imageRaw := $image.resource | resources.Fingerprint "md5"  -}}
