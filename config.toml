@@ -20,7 +20,7 @@ DefaultContentLanguage = "en"
     [params.sidebar]
         emoji = ""
         avatar = "img/avatar.jpg"
-        subtitle = "Designer | developer | Creative Director @<a href='https://www.hyperobjekt.com'>hyper0bjekt</a>"
+        subtitle = "Designer | developer | Creative Director <a href='https://www.hyperobjekt.com'>@hyper0bjekt</a>"
     [params.article]
         math = false
         [params.article.license]
