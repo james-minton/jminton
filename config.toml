@@ -19,7 +19,7 @@ DefaultContentLanguage = "en"
         lastUpdated = "Jan 02, 2006 15:04 MST"
     [params.sidebar]
         emoji = ""
-        avatar = "img/avatar.jpg"
+        avatar = ""
         subtitle = "Designer | developer | Creative Director <a href='https://www.hyperobjekt.com'>@hyper0bjekt</a>"
     [params.article]
         math = false
