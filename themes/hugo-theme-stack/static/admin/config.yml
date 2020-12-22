@@ -27,9 +27,8 @@ collections:
       - {label: Draft, name: draft, widget: boolean, default: false}
       - label: "Categories"
         name: "categories"
-        widget: "relation"
-        collection: "posts"
-        search_fields: ["categories"]
-        display_fields: ["categories"]
-        value_field: "categories"
+        widget: "string"
+        required: false
+      - {label: Body, name: body, widget: markdown, required: false}
+       
  
