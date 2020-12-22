@@ -1,0 +1,30 @@
+backend:
+  name: git-gateway
+  repo: james-minton/jminton
+  branch: main # Branch to update (optional; defaults to master)
+
+publish_mode: editorial_workflow
+
+media_folder: "content/uploads" # Media files will be stored in the repo under content/uploads (to make the image processing work we have to use this technique to spoof the images being page resources
+public_folder: "/uploads" # The src attribute for uploaded media will begin with this
+
+collections:
+  #posts
+  - label: "Posts"
+    name: posts
+    preview_path: /
+    folder: "content/post"
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string, required: false}
+      - {label: Description, name: description, widget: string, required: false}
+      - {label: Date, name: date, widget: datetime, required: false}
+      - {label: Slug, name: slug, widget: string, required: false}
+      - {label: Draft, name: draft, widget: boolean, default: false}
+      - {label: Categories, name: categories, widget: string, required: false}
+      - {label: Body, name: body, widget: markdown, required: false}
+       
+ 

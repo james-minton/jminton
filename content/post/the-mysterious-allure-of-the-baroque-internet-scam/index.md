@@ -7,7 +7,7 @@ description: With all due sympathies for those on the receiving end, I do get a
   all far from evident, leaving space wide open for speculation.
 date: 2020-12-22T17:27:23.849Z
 draft: false
-categories: internet-studies
+categories: internet studies
 ---
 With all due sympathies for those on the receiving end, I do get a ton of enjoyment from learning about  bizarre internet scams (a niche but growing true crime subgenre). The best hook is when some sort of foul play is clearly happening, but the motivation, monetization strategy, and endgame are all far from evident, leaving space wide open for speculation. 
 

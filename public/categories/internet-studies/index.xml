@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on James Minton</title>
-    <link>https://jamesminton.com/post/</link>
-    <description>Recent content in Posts on James Minton</description>
+    <title>internet studies on James Minton</title>
+    <link>https://jamesminton.com/categories/internet-studies/</link>
+    <description>Recent content in internet studies on James Minton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Dec 2020 17:27:23 +0000</lastBuildDate><atom:link href="https://jamesminton.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Dec 2020 17:27:23 +0000</lastBuildDate><atom:link href="https://jamesminton.com/categories/internet-studies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Mysterious Allure of the Baroque Internet Scam</title>
       <link>https://jamesminton.com/p/the-mysterious-allure-of-the-baroque-internet-scam/</link>
@@ -15,15 +15,6 @@
       <guid>https://jamesminton.com/p/the-mysterious-allure-of-the-baroque-internet-scam/</guid>
       <description>With all due sympathies for those on the receiving end, I do get a ton of enjoyment from learning about bizarre internet scams (a niche but growing true crime subgenre). The best hook is when some sort of foul play is clearly happening, but the motivation, monetization strategy, and endgame are all far from evident, leaving space wide open for speculation.
 Here&amp;rsquo;s the latest one from the New York Times: Why on Earth Is Someone Stealing Unpublished Book Manuscripts?</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jamesminton.com/p/photo-gallery/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jamesminton.com/p/photo-gallery/</guid>
-      <description>Very random sample of some of my photos: swimming off the coast of Maui with a cheap underwater camera, looking out the window of the Met Breuer, a blizzard on the Lower East Side.</description>
     </item>
     
   </channel>
