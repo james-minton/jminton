@@ -3,7 +3,7 @@ title: The Mysterious Allure of Baroque Internet Scams
 description: With all due sympathies for those on the receiving end, I do get a
   ton of enjoyment from learning about bizarre internet scams (a niche but
   growing true crime subgenre). The best hook is when some sort of foul play is
-  clearly occurring, but the motivation, monetization strategy, and endgame are
+  clearly happening, but the motivation, monetization strategy, and endgame are
   all far from evident, leaving space wide open for speculation.
 date: 2020-12-22T17:27:23.849Z
 draft: false
@@ -17,7 +17,7 @@ Here's the latest one from the New York Times: [Why on Earth Is Someone Stealing
 >
 > In fact, the manuscripts do not appear to wind up on the black market at all, or anywhere on the dark web, and no ransoms have been demanded. When copies of the manuscripts get out, they just seem to vanish. So why is this happening?
 
-Besides mysterious motives, another intriguing feature is the byzantine nature of some of these operations. For instance, I manage website analytics for several sites, and used to receive tons of referral traffic (inbound links from external websites) from fake internet properties. I'd click on the referrer in the analytics dashboard and be taken to a (definitely malware-ridden) site hawking the spam du jour.
+Besides mysterious motives, another intriguing feature is the byzantine nature of some of these operations. For instance, I manage website analytics for several sites, and used to receive tons of referral traffic (inbound links from external websites) from fake internet properties. I'd click on the referrer in the analytics dashboard, expecting to see a news article or blog linking to the site I run, only be taken to a (definitely malware-ridden) site hawking the spam du jour.
 
 To walk through the scheme: someone set up a fake website with links to mine, banking that I would know my way around an analytics dashboard, find it in the referrers list, and be lured to click—a number of links in a chain of unlikely occurrences culminating low-probability outcome. Then somewhere down the line ... profit. Of course all of this is automated and relatively low-effort, but still a reminder of the levels of imagination that can be deployed just for clicks. And to the scammer's credit, it worked, at least partially. Maybe at scale and in a country with a favorable exchange rate, someone turns a profit.
 
