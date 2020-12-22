@@ -1,5 +1,5 @@
 ---
-title: The Mysterious Allure of the Baroque and Baffling Internet Scam
+title: The Mysterious Allure of Baroque and Baffling Internet Scams
 date: 2020-12-22T17:27:23.849Z
 draft: false
 categories: internet-studies
