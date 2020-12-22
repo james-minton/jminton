@@ -1,5 +1,10 @@
 ---
 title: The Mysterious Allure of Baroque and Baffling Internet Scams
+description: With all due sympathies for those on the receiving end, I do get a
+  ton of enjoyment from learning about  mysterious & bizarre internet scams (a
+  niche but growing true crime subgenre). The best hook is when some sort of
+  foul play is clearly occurring, but the motivation, monetization strategy, and
+  endgame are all far from evident, leaving space wide open for speculation.
 date: 2020-12-22T17:27:23.849Z
 draft: false
 categories: internet-studies
