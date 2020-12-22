@@ -23,7 +23,6 @@ collections:
       - {label: Description, name: description, widget: string, required: false}
       - {label: Date, name: date, widget: datetime, required: false}
       - {label: Slug, name: slug, widget: string, required: false}
-      - {label: Embed code, name: body, widget: string}
       - {label: Draft, name: draft, widget: boolean, default: false}
       - {label: Categories, name: categories, widget: string, required: false}
       - {label: Body, name: body, widget: markdown, required: false}
