@@ -1,5 +1,5 @@
 ---
-title: The Mysterious Allure of Baroque and Baffling Internet Scams
+title: The Mysterious Allure of Baroque & Baffling Internet Scams
 description: With all due sympathies for those on the receiving end, I do get a
   ton of enjoyment from learning about bizarre internet scams (a niche but
   growing true crime subgenre). The best hook is when some sort of foul play is
