@@ -25,6 +25,7 @@ collections:
       - {label: Slug, name: slug, widget: string, required: false}
       - {label: Draft, name: draft, widget: boolean, default: false}
       - {label: Categories, name: categories, widget: string, required: false}
+      - {label: Image, name: image, widget: image, required: false}
       - {label: Body, name: body, widget: markdown, required: false}
        
  
