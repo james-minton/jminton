@@ -1,6 +1,6 @@
 ---
 title: The Mysterious Allure of the Baroque Internet Scam
-description: With all due sympathies for those on the receiving end, I do find myself fascinated by novel, mysterious and bizarre phone/internet scams like the one detailed in today's New York Times.
+description: With all due sympathies for those on the receiving end, I do find myself fascinated by novel, mysterious phone/internet scams like the one detailed in today's New York Times.
 date: 2020-12-22T17:27:23.849Z
 draft: false
 categories: internet studies
@@ -13,6 +13,6 @@ With all due sympathies for those on the receiving end, I do find myself fascina
 
 Besides mysterious motives, there are other features inherent in the scams that intrigue me: their often overwrought, Rube Goldbergian mechanics; also a rarer phenomenon, which is when their outward forms assume a surreal beauty—usually unintentionally, as the motive is seldom ultimately about anything other than money. Sometimes, without meaning to, an intricate machine designed purely for function's sake transcends to the level of art.
 
-A great case in point, featuring all of these qualities (confounding motives, byzantine complexity, and inadvertent sublimity) is detailed in my favorite Reply All episode, [The Case of the Phantom Caller](https://gimletmedia.com/shows/reply-all/n8ho3a). The show tells of an elaborate phone scam involving a shadowy caller who leaves long recordings on corporate answering machines, the sum of which comprise a sprawling, eerie-sounding found audio collage. Over the course of the show, we come to gradually understand the scheme's obscure profit-making logic, which seems to render its formal qualities incidental. And yet the audio artifacts obtained could easily be confused for something created by design; the whole thing has a Burroughs cut-up vibe, and sounds not too far off from a lot of experimental music I listened to in college. 
+A great case in point, featuring all of these qualities (confounding motives, byzantine complexity, and inadvertent sublimity) is detailed in my favorite Reply All episode, [The Case of the Phantom Caller](https://gimletmedia.com/shows/reply-all/n8ho3a). The show tells of an elaborate phone scam involving a shadowy caller who leaves long recordings on corporate answering machines, which altogether comprise a sprawling, eerie-sounding found audio collage. Over the course of the show, we come to gradually understand the scheme's obscure profit-making logic, which seems to render its formal qualities incidental. And yet the audio artifacts obtained could easily be confused for something created by design; the whole thing has a Burroughs cut-up vibe, and sounds not too far off from a lot of experimental music I listened to in college. 
 
 Somehow, the hosts devote most of the time to examining the complex mechanics of this long-distance fraud, and very little marveling at its curious sonic fruits. But both of these elements combined make for an hour-long WTF? that still haunts me. One probably has to hear those recordings to understand, and appreciate the pure weirdness of how a scam with a strictly mercenary imperative ended up producing art.
