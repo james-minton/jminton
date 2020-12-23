@@ -1,15 +1,11 @@
 ---
 title: The Mysterious Allure of the Baroque Internet Scam
-description: With all due sympathies for those on the receiving end, I do get a
-  ton of enjoyment from learning about bizarre internet scams (a niche but
-  growing true crime subgenre). The best hook is when some sort of foul play is
-  clearly happening, but the motivation, monetization strategy, and endgame are
-  all far from evident, leaving space wide open for speculation.
+description: With all due sympathies for those on the receiving end, I do find myself fascinated by novel, mysterious and bizarre phone/internet scams like the one detailed in today's New York Times.
 date: 2020-12-22T17:27:23.849Z
 draft: false
 categories: internet studies
 ---
-With all due sympathies for those on the receiving end, I do find myself fascinated by novel, mysterious and bizarre phone & internet scams like the one detailed in today's New York Times ([Why on Earth Is Someone Stealing Unpublished Book Manuscripts?](https://www.nytimes.com/2020/12/21/books/publishing-manuscripts-phishing-scam.html?referringSource=articleShare)). The biggest hook for me in this story (and this entire emerging subgenre of true crime) comes when it's evident to all that foul play is clearly involved, but the motivation, monetization strategy, and endgame are all a mystery.
+With all due sympathies for those on the receiving end, I do find myself fascinated by novel, mysterious and bizarre phone/internet scams like the one detailed in today's New York Times ([Why on Earth Is Someone Stealing Unpublished Book Manuscripts?](https://www.nytimes.com/2020/12/21/books/publishing-manuscripts-phishing-scam.html?referringSource=articleShare)). The biggest hook for me in this story (and this entire emerging subgenre of true crime) comes when it's evident to all that foul play is clearly involved, but the motivation, monetization strategy, and endgame are all a mystery.
 
 > Mr. Hannaham was just one of countless targets in a mysterious international phishing scam that has been tricking writers, editors, agents and anyone in their orbit into sharing unpublished book manuscripts. It isn’t clear who the thief or thieves are, or even how they might profit from the scheme. High-profile authors like Margaret Atwood and Ian McEwan have been targeted, along with celebrities like Ethan Hawke. But short story collections and works by little-known debut writers have been attacked as well, even though they would have no obvious value on the black market.
 >
