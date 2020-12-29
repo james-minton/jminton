@@ -1,5 +1,6 @@
 ---
 title: "Current listening: Peter Hook's \"Unknown Pleasures\" memoir"
+description: "3/4ths of the way in via audiobook. Thoughts so far:  "
 date: 2020-12-28T19:26:43.672Z
 draft: false
 categories: joy division studies
