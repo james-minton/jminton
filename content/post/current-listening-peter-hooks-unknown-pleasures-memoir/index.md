@@ -2,6 +2,7 @@
 title: "Current listening: Peter Hook's \"Unknown Pleasures\" memoir"
 date: 2020-12-28T19:26:43.672Z
 draft: false
+categories: current reading, joy division studies
 ---
 Thoughts so far:
 
