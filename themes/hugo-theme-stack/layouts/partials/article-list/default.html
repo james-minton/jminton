@@ -1,11 +1,12 @@
 {{ $image := partialCached "helper/image" (dict "Context" . "Type" "articleList") .RelPermalink "articleList" }}
+{{ $position := "Top" }}
 <article class="{{ if $image.exists }}has-image{{ end }}">
     {{ if $image.exists }}
         <div class="article-image">
             <a href="{{ .RelPermalink }}">
                 {{ if $image.resource }}
-                    {{- $thumbnail := $image.resource.Fill "800x250" -}}
-                    {{- $thumbnailRetina := $image.resource.Fill "1600x500" -}}
+                    {{- $thumbnail := $image.resource.Fill "800x250 Center" -}}
+                    {{- $thumbnailRetina := $image.resource.Fill "1600x500 Center" -}}
 
                     <img src="{{ $thumbnail.RelPermalink }}" 
                         srcset="{{ $thumbnail.RelPermalink }} 800w, {{ $thumbnailRetina.RelPermalink }} 1600w"
