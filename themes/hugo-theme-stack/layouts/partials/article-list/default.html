@@ -1,17 +1,43 @@
 {{ $image := partialCached "helper/image" (dict "Context" . "Type" "articleList") .RelPermalink "articleList" }}
 {{ $position := "Top" }}
+{{ $anchor := .Params.imganchor }}
 <article class="{{ if $image.exists }}has-image{{ end }}">
     {{ if $image.exists }}
         <div class="article-image">
             <a href="{{ .RelPermalink }}">
                 {{ if $image.resource }}
-                    {{- $thumbnail := $image.resource.Fill "800x250 Center" -}}
-                    {{- $thumbnailRetina := $image.resource.Fill "1600x500 Center" -}}
-
-                    <img src="{{ $thumbnail.RelPermalink }}" 
-                        srcset="{{ $thumbnail.RelPermalink }} 800w, {{ $thumbnailRetina.RelPermalink }} 1600w"
-                        width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" loading="lazy"
-                        alt="Featured image of post {{ .Title }}" />
+                    {{ if eq $anchor "center" }}
+                        {{- $thumbnail := $image.resource.Fill "800x250 Center" -}}
+                        {{- $thumbnailRetina := $image.resource.Fill "1600x500 Center" -}}
+                        <img src="{{ $thumbnail.RelPermalink }}" 
+                            srcset="{{ $thumbnail.RelPermalink }} 800w, {{ $thumbnailRetina.RelPermalink }} 1600w"
+                            width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" loading="lazy"
+                            alt="Featured image of post {{ .Title }}" />
+                    {{ end }}
+                    {{ if eq $anchor "top" }}
+                        {{- $thumbnail := $image.resource.Fill "800x250 Top" -}}
+                        {{- $thumbnailRetina := $image.resource.Fill "1600x500 Top" -}}
+                        <img src="{{ $thumbnail.RelPermalink }}" 
+                            srcset="{{ $thumbnail.RelPermalink }} 800w, {{ $thumbnailRetina.RelPermalink }} 1600w"
+                            width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" loading="lazy"
+                            alt="Featured image of post {{ .Title }}" />
+                    {{ end }}
+                    {{ if eq $anchor "bottom" }}
+                        {{- $thumbnail := $image.resource.Fill "800x250 Bottom" -}}
+                        {{- $thumbnailRetina := $image.resource.Fill "1600x500 Bottom" -}}
+                        <img src="{{ $thumbnail.RelPermalink }}" 
+                            srcset="{{ $thumbnail.RelPermalink }} 800w, {{ $thumbnailRetina.RelPermalink }} 1600w"
+                            width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" loading="lazy"
+                            alt="Featured image of post {{ .Title }}" />
+                    {{ end }}
+                    {{ if eq $anchor "smart" }}
+                        {{- $thumbnail := $image.resource.Fill "800x250 Smart" -}}
+                        {{- $thumbnailRetina := $image.resource.Fill "1600x500 Smart" -}}
+                        <img src="{{ $thumbnail.RelPermalink }}" 
+                            srcset="{{ $thumbnail.RelPermalink }} 800w, {{ $thumbnailRetina.RelPermalink }} 1600w"
+                            width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" loading="lazy"
+                            alt="Featured image of post {{ .Title }}" />
+                    {{ end }}
                 {{ else }}
                     <img src="{{ $image.permalink }}" loading="lazy" alt="Featured image of post {{ .Title }}" />
                 {{ end }}
