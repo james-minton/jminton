@@ -6,6 +6,8 @@ categories: photos
 image: 50792318081_cc2f781112_k.jpg
 imganchor: center
 ---
+Enveloped in fog at dusk in West Virginia, 2020.
+
 ![](50792318081_cc2f781112_k.jpg)
 
 ![](50786093026_f56e70202f_k.jpg)
