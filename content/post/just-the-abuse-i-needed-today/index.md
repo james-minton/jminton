@@ -6,6 +6,7 @@ draft: false
 categories: music
 image: screen-shot-2020-12-23-at-10.52.39-am.png
 imganchor: top
+displayInPost: false
 ---
 ![](screen-shot-2020-12-23-at-10.52.39-am.png)
 

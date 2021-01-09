@@ -5,6 +5,7 @@ draft: false
 categories: art & design studies
 image: green-room.jpg
 imganchor: center
+displayInPost: true
 ---
 * [Verdigris: The Color of Oxidation, Statues, and Impermanence](https://www.theparisreview.org/blog/2020/11/24/verdigris-the-color-of-oxidation-statues-and-impermanence/)
 
