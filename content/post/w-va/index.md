@@ -6,7 +6,7 @@ categories: photos
 image: 50792318081_cc2f781112_k.jpg
 imganchor: center
 ---
-Shot these on a little sojourn there last year.
+Shot these during a little sojourn there last year.
 
 ![](50792318081_cc2f781112_k.jpg)
 
