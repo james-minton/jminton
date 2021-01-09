@@ -1,12 +1,12 @@
 ---
-title: W Va
+title: West Virginia landscapes, 2020
 date: 2021-01-09T05:18:32.841Z
 draft: false
 categories: photos
 image: 50792318081_cc2f781112_k.jpg
 imganchor: center
 ---
-Some photos I took in West Virginia, 2020.
+Shot these on a little sojourn there last year.
 
 ![](50792318081_cc2f781112_k.jpg)
 
