@@ -1,6 +1,6 @@
 ---
-title: A sequence of NYT front pages
-description: from Jan 6-7
+title: "A sequence of NYT front pages, Jan 6 & 7 "
+description: ""
 date: 2021-01-10T05:14:45.770Z
 draft: false
 categories: news
@@ -8,6 +8,8 @@ image: screen-shot-2021-01-06-at-3.28.08-pm.png
 imganchor: smart
 displayInPost: false
 ---
+Collecting these in the same way that, pre-internet, I'd have gone out to get the physical paper to keep for posterity.
+
 ![](screen-shot-2021-01-06-at-3.28.08-pm.png)
 
 ![](screen-shot-2021-01-06-at-7.13.15-pm.png)
