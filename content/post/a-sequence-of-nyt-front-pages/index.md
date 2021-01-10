@@ -8,6 +8,8 @@ image: screen-shot-2021-01-06-at-3.28.08-pm.png
 imganchor: smart
 displayInPost: false
 ---
+Scrapbooked for posterity.
+
 ![](screen-shot-2021-01-06-at-3.28.08-pm.png)
 
 ![](screen-shot-2021-01-06-at-7.13.15-pm.png)
