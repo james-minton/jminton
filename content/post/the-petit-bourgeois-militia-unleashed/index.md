@@ -9,7 +9,7 @@ displayInPost: true
 ---
 One of the many frustrating things about the current moment is seeing quite clearly in hindsight all the signs that presaged it, and grappling with my inability (or reluctance) back then to prognosticate forward to where we are today. For me personally, certain of the warning signs appeared during a visit last year to my southern home state, which had come to look markedly different in many ways from the place where I grew up.
 
-The main observation was the change of vibe and aesthetic in my parents' suburban neighborhood, where a barracks mentality seemed to have taken hold. Just a couple of many examples:
+The main observation was the change of vibe and aesthetic in certain relatives' suburban neighborhood, where a barracks mentality seemed to have taken hold. Just a couple of many examples:
 
 1. Neighbor guy in a army-style camo hat mowing his (already only half-inch tall) grass on an enormous metal beast resembling an Abrams tank. It was far larger and more tricked-out than required for the job, attesting to a need to project not just toughness but *total lawn domination*. (This in keeping with the hyperbolic upsizing of other suburban vehicles like pickup trucks, well exceeding any functional necessity.) This was not the lawn maintenance equipment I'd grown up with; it seemed military-grade, a tool of aggression.
 2. A neighborhood dad out for his afternoon run in a "tactical jogging vest," a new concept to me, and something that would've been the target of jokes in years prior. Not anymore. It was *de rigeur* and deadly serious now. 
