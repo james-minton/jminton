@@ -40,4 +40,4 @@ They, like many in the southern suburb where I stayed, have lived their lives sh
 
 They also include a realtor (now requesting a presidential pardon) who flew in on a private jet and [used the breach of the Capitol to promote her services in a Facebook livestream](https://www.newsweek.com/jenna-ryan-jet-capitol-riot-asks-donald-trump-pardon-1562087) ("I'm facing a prison sentence. I think I do not deserve that," she states). They are not rebels against longtime oppression, but reactionaries against the perceived loss of their right to rule.
 
-This is the gated community-dwelling mob, unleashed from the suburban barracks. I now know it was all there to see, and only just a matter of time before it burst forth.
+This is the gated community-dwelling mob, unleashed from the suburban barracks. It was only just a matter of time before it burst forth.
