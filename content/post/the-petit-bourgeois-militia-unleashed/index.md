@@ -7,16 +7,16 @@ image: 210112-capitol-riot-jm-1555_9bc5bef9752cdc89e8bb2fed9d0b8988.jpg
 imganchor: smart
 displayInPost: true
 ---
-One of the many frustrating things about the current moment is seeing in hindsight all the signs that presaged it, and grappling with my inability (or reluctance) at the time to extrapolate forward, much less begin to reckon with how it might be prevented. For me personally, certain of the warning signs appeared during a visit last year to my southern home state, where I saw some notable changes.
+One of the many frustrating things about the current moment is seeing in hindsight all the signs that presaged it, and grappling with my inability (or reluctance) back then to extrapolate forward, much less begin to reckon with how it might be prevented. For me personally, certain of the warning signs appeared during a visit last year to my southern home state, which looked markedly different in many ways from the place where I grew up.
 
-The main thing was the change of mood and aesthetics in my parents' suburban neighborhood, where a barracks mentality had taken hold. Just a couple of many examples:
+The main observation was the change of vibe and aesthetic in my parents' suburban neighborhood, where a barracks mentality seemed to have taken hold. Just a couple of many examples:
 
-1. Neighbor guy in a miltary-style camo hat mowing his (already only half-inch tall) grass on a enormous metal beast that resembled an Abrams tank—far larger and more tricked-out than required for the job, attesting to a need to project not just toughness but *total lawn domination*. (This in keeping with the hyperbolic upsizing of other suburban vehicles, like pickup trucks, well beyond any functional necessity.) This was not the more-modest lawn maintenance equipment I'd grown up with; this thing looked military-grade, a tool of aggression.
+1. Neighbor guy in a miltary-style camo hat mowing his (already only half-inch tall) grass on a enormous metal beast that resembled an Abrams tank—far larger and more tricked-out than required for the job, attesting to a need to project not just toughness but **total lawn domination**. (This in keeping with the hyperbolic upsizing of other suburban vehicles like pickup trucks, well beyond any functional necessity.) This was not the lawn maintenance equipment I'd grown up with; this thing was military-grade, a tool of aggression.
 2. A neighborhood dad out for his afternoon run in a "tactical jogging vest," a new concept to me, and something that would've been the target of jokes in years prior. Not anymore. It was *de rigeur* and deadly serious now. 
 
 I could go on ... the abundance of Punisher decals and special forces "operator"-style wraparound shades ... but you get the gist.
 
-Some of this is, of course, the long osmotic infusion of the Forever Wars into middle American lifestyles and aesthetics, a.k.a. the militarization of everyday life.
+Some of this is, of course, the long, slow infusion of the Forever Wars into middle American lifestyles and aesthetics, a.k.a. the militarization of everyday life.
 
 And some of this stems from the usual phenomenon of masculinity needing to assert itself in reaction to feminizing forces in the culture, compounded by all the domestic comforts of suburbia that threaten to siphon its potency.
 
@@ -40,4 +40,4 @@ They, like many in the southern suburb where I stayed, have lived their lives sh
 
 They also include a realtor (now requesting a presidential pardon) who flew in on a private jet and [used the breach of the Capitol to promote her services in a Facebook livestream](https://www.newsweek.com/jenna-ryan-jet-capitol-riot-asks-donald-trump-pardon-1562087) ("I'm facing a prison sentence. I think I do not deserve that," she states). They are not rebels against longtime oppression, but reactionaries against the perceived loss of their right to rule.
 
-This is the gated community-dwelling mob, unleashed from the suburban barracks. It was only just a matter of time before it burst forth.
+This is the gated community-dwelling mob, unleashed from the suburban barracks. Looking back, I can see how it was only just a matter of time before it burst forth.
