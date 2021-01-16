@@ -1,6 +1,6 @@
 ---
 title: The gated community, unleashed
-description: On the Capitol riot and its roots in "barracks suburbia"
+description: On the Capitol riot and "barracks suburbia"
 date: 2021-01-16T16:05:26.662Z
 draft: false
 image: 210112-capitol-riot-jm-1555_9bc5bef9752cdc89e8bb2fed9d0b8988.jpg
