@@ -18,7 +18,7 @@ I could go on ... the abundance of Punisher decals and special forces "operator"
 
 Some of this is, of course, the long osmotic infusion of the Forever Wars into middle American lifestyles and aesthetics, a.k.a. the militarization of everyday life.
 
-And some of this stems from the usual phenomenon of masculinity needing to assert itself in reaction to feminizing forces in the culture, in concert with all the domestic comforts of suburbia that threaten to siphon its potency.
+And some of this stems from the usual phenomenon of masculinity needing to assert itself in reaction to feminizing forces in the culture, compounded by all the domestic comforts of suburbia that threaten to siphon its potency.
 
 But it was all, of course, now being drawn out and made more acute by the imagined threat of BLM and Antifa attack squads headed to pillage quiet streets, and accelerated even more by pandemic-driven anxiety and culture clashes.
 
