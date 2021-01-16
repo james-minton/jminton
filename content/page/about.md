@@ -1,26 +1,12 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = ""
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-license = "CC BY-NC-ND"
+aliases = ["about", "about-hugo", "contact"]
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+**About me:** raised in the sticks and living in the big city. Founder and Creative Director of [Hyperobjekt](https://www.hyperobjekt.com), a web design and data visualization company. 
 
-Hugo makes use of a variety of open source projects including:
+**About this site:** just some old-school, artisanal blogging inspired by nostalgia for the pre-context-collapse, decentralized internet. I think of this as a public diary/scrapbook, a sort of "live journal" for my thoughts, if you will. I truly hope very few people read it.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+**Topics explored:** Art & design, film/photography, music, current events—anything outside of work.  (Check out my [company website](https://www.hyperobjekt.com) or [Twitter](https://twitter.com/Hyper0bjekt) if you're interested, though!)

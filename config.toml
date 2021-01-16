@@ -63,12 +63,12 @@ DefaultContentLanguage = "en"
         url = "/"
         weight = -100
         pre = "home"
-    # [[menu.main]]
-    #    identifier = "about-cn"
-    #    name = "About"
-    #    url = "about"
-    #    weight = -90
-    #    pre = "user"
+    [[menu.main]]
+       identifier = "about-cn"
+       name = "About"
+       url = "about"
+       weight = -90
+       pre = "user"
     [[menu.main]]
         identifier = "archives"
         name = "Archives"
