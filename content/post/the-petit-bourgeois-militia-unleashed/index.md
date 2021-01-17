@@ -7,15 +7,15 @@ image: 210112-capitol-riot-jm-1555_9bc5bef9752cdc89e8bb2fed9d0b8988.jpg
 imganchor: smart
 displayInPost: true
 ---
-One of the many frustrating things about the current moment is seeing quite clearly in hindsight all the signs that presaged it, and grappling with my inability (or reluctance) back then to prognosticate forward to where we are today. For me personally, certain of the warning signs appeared during a visit last year to my southern home state, which had come to look markedly different in many ways from the place where I grew up.
+One of the many frustrating things about the current moment is seeing quite clearly in hindsight so many of the indicators that presaged it, and grappling with my inability (or reluctance) back then to prognosticate forward to where we are today. For me personally, a number of the warning signs appeared during a visit last year to my southern home state, which had come to look markedly different in many ways from the place where I grew up.
 
-The main observation was the change of tone and aesthetic in certain relatives' suburban neighborhood, where a barracks mentality seemed to have taken hold. Just a couple of many examples:
+The main observation was the change of tone and aesthetic in the suburban neighborhood where I was staying, where a barracks mentality seemed to have taken hold. Just a couple of many examples:
 
-One, the neighbor guy in a army-style camo hat mowing his (already only half-inch tall) grass on an enormous metal beast resembling an Abrams tank. It was far larger and more tricked-out than required for the job, attesting to a need to project not just toughness but *total lawn domination*. (This in keeping with the hyperbolic upsizing of other suburban vehicles like pickup trucks, well exceeding any functional necessity.) This was not the lawn maintenance equipment I'd grown up with; it seemed military-grade, a tool of aggression.
+One, the neighbor guy in an army-style camo hat riding an enormous metal beast resembling an Abrams tank that mowed his (already only half-inch tall) grass. I'd seen no lawnmower like it before—far bulkier and more tricked-out than required for the job, attesting to a need to project not just toughness but *total lawn domination*. (This in keeping with the hyperbolic upsizing of other suburban vehicles like pickup trucks, well exceeding any functional necessity.) This was not the lawn maintenance equipment I'd grown up with; it seemed military-grade, a tool of aggression.
 
 Two, a neighborhood dad out for his afternoon run in a "tactical jogging vest," a new concept to me, and something that would've been the target of jokes in years prior. Not anymore. It was *de rigeur* and deadly serious now. 
 
-Those are just a couple of images that stuck in my head. I could go on to note things like the abundance of Punisher decals on vehicles, along with many other signifiers of an increasingly normalized paramilitary aesthetic. (These trends are all explored thoroughly and compellingly in Nate Powell's graphic essay, "[About Face](https://popula.com/2019/02/24/about-face/)," a must-read primer on the subject).
+Those are just a couple of images that stuck in my head. I could go on to note things like the abundance of Punisher decals on vehicles, along with many other signifiers of an increasingly normalized paramilitary aesthetic in the 'burbs. (These trends are all explored thoroughly and compellingly in Nate Powell's graphic essay, "[About Face](https://popula.com/2019/02/24/about-face/)," a must-read primer on the subject).
 
 Some of this is, of course, the long, slow infusion of the Forever Wars into middle American lifestyles and aesthetics.
 
