@@ -7,7 +7,7 @@ image: 210112-capitol-riot-jm-1555_9bc5bef9752cdc89e8bb2fed9d0b8988.jpg
 imganchor: smart
 displayInPost: true
 ---
-One of the many frustrating things about the current moment is seeing quite clearly in hindsight so many of the indicators that presaged it, and grappling with my inability (or reluctance) back then to prognosticate forward to where we are today. For me personally, a number of the warning signs appeared during a visit last year to my southern home state, which had come to look markedly different in many ways from the place where I grew up.
+One of the many frustrating things about the current moment is seeing quite clearly in hindsight so many of the indicators that presaged it, and grappling with my inability (or reluctance) back then to see how it would lead to where we are today. For me personally, a number of the warning signs appeared during a visit last year to my southern home state, which had come to look markedly different in many ways from the place where I grew up.
 
 The main observation was the change of tone and aesthetic in my relatives' suburban neighborhood, where a barracks mentality seemed to have taken hold. Just a couple of many examples:
 
