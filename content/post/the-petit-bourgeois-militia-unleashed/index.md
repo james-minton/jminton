@@ -15,7 +15,7 @@ One, the neighbor guy in a army-style camo hat mowing his (already only half-inc
 
 Two, a neighborhood dad out for his afternoon run in a "tactical jogging vest," a new concept to me, and something that would've been the target of jokes in years prior. Not anymore. It was *de rigeur* and deadly serious now. 
 
-Those are a couple of images that stuck in my head. I could go on to talk about things like the abundance of Punisher decals and special forces "operator"-style wraparound shades, along with the many other signifiers of an increasingly normalized paramilitary aesthetic. (These trends are all explored thoroughly and compellingly in Nate Powell's graphic essay, "[About Face](https://popula.com/2019/02/24/about-face/)," a must-read primer on the subject).
+Those are just a couple of images that stuck in my head. I could go on to note things like the abundance of Punisher decals on vehicles, along with many other signifiers of an increasingly normalized paramilitary aesthetic. (These trends are all explored thoroughly and compellingly in Nate Powell's graphic essay, "[About Face](https://popula.com/2019/02/24/about-face/)," a must-read primer on the subject).
 
 Some of this is, of course, the long, slow infusion of the Forever Wars into middle American lifestyles and aesthetics, a.k.a. the militarization of everyday life.
 
