@@ -17,7 +17,7 @@ Two, a neighborhood dad out for his afternoon run in a "tactical jogging vest," 
 
 Those are just a couple of images that stuck in my head. I could go on to note things like the abundance of Punisher decals on vehicles, along with many other signifiers of an increasingly normalized paramilitary aesthetic. (These trends are all explored thoroughly and compellingly in Nate Powell's graphic essay, "[About Face](https://popula.com/2019/02/24/about-face/)," a must-read primer on the subject).
 
-Some of this is, of course, the long, slow infusion of the Forever Wars into middle American lifestyles and aesthetics, a.k.a. the militarization of everyday life.
+Some of this is, of course, the long, slow infusion of the Forever Wars into middle American lifestyles and aesthetics.
 
 And some of this stems from the phenomenon of masculinity needing to assert itself in reaction to feminizing forces in the culture, compounded by all the domestic comforts of suburbia threatening to siphon its potency.
 
