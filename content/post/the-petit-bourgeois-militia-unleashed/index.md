@@ -11,7 +11,7 @@ One of the many frustrating things about the current moment is seeing quite clea
 
 The main observation was the change of tone and aesthetic in my relatives' suburban neighborhood, where a barracks mentality seemed to have taken hold. Just a couple of many examples:
 
-One, the neighbor guy in an army-style camo hat riding an enormous metal beast resembling an Abrams tank that mowed his (already only half-inch tall) grass. I'd seen no lawnmower like it before—far bulkier and more tricked-out than required for the job, attesting to a need to project not just toughness but *total lawn domination*. (This in keeping with the hyperbolic upsizing of other suburban vehicles like pickup trucks, well exceeding any functional necessity.) This was not the lawn maintenance equipment I'd grown up with; it seemed military-grade, a tool of aggression.
+One, the neighbor guy in an army-style camo hat riding an enormous metal beast resembling an Abrams tank to mow his (already only half-inch tall) grass. I'd seen no lawnmower like it before—far bulkier and more tricked-out than required for the job, attesting to a need to project not just toughness but *total lawn domination*. (This in keeping with the hyperbolic upsizing of other suburban vehicles like pickup trucks, well exceeding any functional necessity.) This was not the lawn maintenance equipment I'd grown up with; it seemed military-grade, a tool of aggression.
 
 Two, a neighborhood dad out for his afternoon run in a "tactical jogging vest," a new concept to me, and something that would've been the target of jokes in years prior. Not anymore. It was *de rigeur* and deadly serious now. 
 
