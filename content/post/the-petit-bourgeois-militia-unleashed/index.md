@@ -35,10 +35,10 @@ All that stockpiled gear and all that ginned-up rage, like Chekhov's gun, demand
 
 So in hindsight, this madness should have come as no surprise. Nor should the entitlement of people who storm the Capitol with their smiling unmasked faces, unconcerned by the hundreds of angles from which they're being recorded. They've been told all their lives that they're the real Americans, and this was *their* country to "take back," their prerogative to assert force.
 
-They, like many in the southern suburb where I stayed, have lived their lives sheltered in relative privilege, never being profiled, never on anyone's watch lists (real terrorists are never so melanin-deficient). They are not just the rustic rabble; they include the owners of a roofing business, a flower shop, and an app development company. 
+They, like many in the southern suburb where I stayed, have lived their lives sheltered in relative privilege, never being profiled, never on anyone's watch lists (real terrorists are never so melanin-deficient). They are not just the rustic rabble; they include the owners of a roofing business, a flower shop, and an app development company ...
 
 ![](38065950-0-image-a-55_1610748281882.jpg)
 
-They also include a realtor (now requesting a presidential pardon) who flew in on a private jet and [used the breach of the Capitol to promote her services in a Facebook livestream](https://www.newsweek.com/jenna-ryan-jet-capitol-riot-asks-donald-trump-pardon-1562087) ("I'm facing a prison sentence. I think I do not deserve that," she now states). They are not rebels against longtime oppression, but reactionaries against the perceived loss of their right to rule.
+... as well as a realtor (now requesting a presidential pardon) who flew in on a private jet and [used the breach of the Capitol to promote her services in a Facebook livestream](https://www.newsweek.com/jenna-ryan-jet-capitol-riot-asks-donald-trump-pardon-1562087) ("I'm facing a prison sentence. I think I do not deserve that," she now states). They are not rebels against longtime oppression, but reactionaries against the perceived loss of their right to rule.
 
 This is the gated community-dwelling mob, unleashed from the suburban barracks. Looking back, I can see how it was only just a matter of time before it burst forth.
