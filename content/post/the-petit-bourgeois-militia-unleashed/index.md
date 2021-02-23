@@ -2,7 +2,7 @@
 title: The gated community, unleashed
 description: On the Capitol riot and the militarization of suburbia
 date: 2021-01-16T16:05:26.662Z
-draft: false
+draft: true
 image: 210112-capitol-riot-jm-1555_9bc5bef9752cdc89e8bb2fed9d0b8988.jpg
 imganchor: smart
 displayInPost: true
