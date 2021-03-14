@@ -92,3 +92,6 @@ DefaultContentLanguage = "en"
 [markup]
     [markup.highlight]
         noClasses = false
+
+    [markup.goldmark.renderer]
+        unsafe= true        
